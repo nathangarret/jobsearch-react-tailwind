@@ -6,7 +6,7 @@ import LogoMonzo from '../../assets/monzo.png';
 
 const Value = () => {
     return (
-        <div className='mb-[4rem] mt-[6rem]'>
+        <div className='mb-[4rem] mt-[6rem] cursor-pointer'>
             <h1 className='text-textColor text-[25px] py-[2rem] pb-[3rem] font-bold w-[400px] block'>The Value that holds us true and to account</h1>
             <div className='grid gap-[10rem] grid-cols-3 items-center'>
                 <div className="singleGrid rounded-[20px] hover:bg-[#eeedf7] p-[2.5rem]">
